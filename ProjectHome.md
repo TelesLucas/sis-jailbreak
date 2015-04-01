@@ -1,0 +1,1 @@
+This project is to allow user to grab data from database such as MySQL, MS SQL and Oracle database and push to Google Spreadsheet. It is written in Google App Script and it have a simple UI for users to design SQL query.
